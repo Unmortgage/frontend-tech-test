@@ -59,7 +59,7 @@ a 'city' modal based on the ID).
 We understand that you may not have time to complete all the requirements in this exercise.
 Whether you fully the complete the task or not, please add (either in a text file with the source code or in an email):
 * Instructions on how to get your source code running.
-* An explanation for you approach/design decisions.
+* An explanation for your approach/design decisions.
 * What you would like to add if you had more time.
 * Any improvements you would make to your code.
 
