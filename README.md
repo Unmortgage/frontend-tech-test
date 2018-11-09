@@ -47,8 +47,10 @@ Other acceptance criteria:
 ## Nice to haves
 
 * Components should be built with reusability in mind.
-* The solution should be compatible with the latest versions of Chrome, Firefox, Safari and Edge.
-* The solution should be compatible with IE11.
+* We haven't supplied information on what should happen to different device widths, but bonus points
+if you handle this (including what happens on smaller screen sizes).
+* The solution is compatible with the latest versions of Chrome, Firefox, Safari and Edge.
+* The solution is compatible with IE11.
 * An approach which would allow for adding tooltips to the markers which will show the city name (as seen in the mock up)
 * An approach which would allow for adding a click event to the markers, which allows the city ID to be used (for example, opening
 a 'city' modal based on the ID).
