@@ -10,12 +10,12 @@ Please do not make your solution publicly available, just compress this folder a
 
 ## Brief
 
-We would like you to implement a simple form which retrieves data from an endpoint and displays this data on a map. Please see
+We would like you to implement a simple form which retrieves some data and displays some markers on a map. Please see
 the mockup in the link below to get a better understanding of the brief:
 
 https://storage.googleapis.com/unmortgage-static/map-form.png
 
-Please note that this mockup is just for reference; your solution does not have to look exactly like this.
+Please note that this image is just for reference; your solution does not have to look exactly like this.
 
 The basic user journey for this feature should be:
 
@@ -51,7 +51,7 @@ Other acceptance criteria:
 if you handle this (including what happens on smaller screen sizes).
 * The solution is compatible with the latest versions of Chrome, Firefox, Safari and Edge.
 * The solution is compatible with IE11.
-* An approach which would allow for adding tooltips to the markers which will show the city name (as seen in the mock up)
+* An approach which would allow for adding tooltips to the markers which will show the city name (as seen in the mock up).
 * An approach which would allow for adding a click event to the markers, which allows the city ID to be used (for example, opening
 a 'city' modal based on the ID).
 
