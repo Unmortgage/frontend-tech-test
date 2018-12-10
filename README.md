@@ -3,15 +3,13 @@
 Thanks for taking part in our technical exercise! Please go through this README carefully before starting.
 
 Take as long as you need (or however long you think is reasonable). You don't need to complete all the requirements if
-you are pushed for time, however your solution should give us enough code to get a clear understanding of how you normally approach
-and solve technical problems.
+you are pushed for time, however your solution should give us enough code to get a clear understanding of how you normally approach and solve technical problems.
 
 Please do not make your solution publicly available, just compress this folder and send it back to us.
 
 ## Brief
 
-We would like you to implement a simple form which retrieves some data and displays some markers on a map. Please see
-the mockup in the link below to get a better understanding of the brief:
+We would like you to implement a simple form which retrieves some data from an API (although for this exercise it will be from a JSON provided) and displays some markers on a map. Please see the mockup in the link below to get a better understanding of the brief:
 
 https://storage.googleapis.com/unmortgage-static/map-form.png
 
